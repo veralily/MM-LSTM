@@ -19,4 +19,4 @@
 
 	- *_withattributes.txt
 	
-		The files with suffix of '_withattribute' contain both events and attributes sequences. The words before ":" represent the sequence labels, which are not analyzed in MM-LSTM.
+		The files with suffix of '_withattribute' contain both events and attributes sequences. The words before ":" in each line represent the sequence labels, which are not analyzed in MM-LSTM. We drop these words in preprocessing period.
