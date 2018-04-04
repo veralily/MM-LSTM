@@ -10,6 +10,8 @@
 
 		This kind of files provide the MM-LSTM model for each dataset as the attributes of events vary in different datasets.
 2. data
+	
+	Because the sizes of BPIC17 and ClickTracker are too large, we compressed the datasets into  *rar* format.
 
 	- *_event.txt
 
